@@ -5,7 +5,7 @@
     <classes>
       <class name="com.cyient.test.TrackOrderTest">
         <methods>
-          <include name="trackOrder"/>
+          <include name="trackOrder" invocation-numbers="0"/>
           <include name="teardown"/>
           <include name="setup"/>
         </methods>
